@@ -1,0 +1,19 @@
+{
+  "users": {
+    "6285693403858@s.whatsapp.net": {}
+  },
+  "chats": {
+    "6285693403858@s.whatsapp.net": {
+      "isBanned": false,
+      "antilink": false,
+      "antilinkv2": false
+    }
+  },
+  "game": {},
+  "settings": {
+    "6283874475551@s.whatsapp.net": {
+      "autoread": false,
+      "public": true
+    }
+  }
+}
